@@ -22,7 +22,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ### The Below Worksheets are parts of the Tableau Story
 
-1. ### Worksheet 1 - Some basic information gathered from the data 
+1. #### Worksheet 1 - Some basic information gathered from the data 
 
     **Image 1 (below)**
 
@@ -33,7 +33,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * 81.07% of all rides were taken by Subscribers, while 18.93% was taken by Customers
     * Males took 65.28% of the rides, Females 25.1% and Unknowns at 9.62%
 
-2. ### Worksheet 2 - Top Starting and Ending locations
+2. #### Worksheet 2 - Top Starting and Ending locations
     **Image 2 (below)**
 
     ![](Images/Top_starting_and_ending_locations.png)
@@ -42,7 +42,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * Downtown Manhattan was the top starting and ending location
     * This can be attributed to the fact that it has highest density of offices (thus commuters) as well as tourist spots (thus tourists)
 
-3. ### Worksheet 3 - Busiest times in a day
+3. #### Worksheet 3 - Busiest times in a day
 
     **Image 3 (below)**
     ![](Images/peak_hours_of_day.png)
@@ -53,7 +53,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * The above both trends can be attributed to office commuters.
     * This also tells us that the morning times can be used to repair bikes
 
-4. ### Worksheet 4 - Tripduration
+4. #### Worksheet 4 - Tripduration
 
     **Image 4 (below)**
     ![](Images/tripduration.png)
@@ -63,7 +63,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * As the duration increases the number of trips start decreasing, although the decrease is slower as compared to the rise in the point above.
 
 
-5. ### Worksheet 5 - Tripduration by Gender
+5. #### Worksheet 5 - Tripduration by Gender
 
     **Image 5 (below)**
     ![](Images/tripduration_by_gender.png)
@@ -73,7 +73,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * for Males, as the duration increases the number of trips start decreasing, although the decrease is slower as compared to the rise in the point above.
     * For Females and Unknown, the trend is similar
 
-6. ### Worksheet 6 - Trips by Weekday per hour
+6. #### Worksheet 6 - Trips by Weekday per hour
     **Image 6 (below)**
     ![](Images/CountofTrips_by_weekdays.png)
     **Observation/Description:**
@@ -84,7 +84,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * Wednesday was a unusually less-busy day.
     * Bike service should be scheduled in the mornings, or on Wednesday afternoons, as Thursdays are very busy
 
-7. ### Worksheet 7 - Trips by Gender (Weekday per Hour)
+7. #### Worksheet 7 - Trips by Gender (Weekday per Hour)
     **Image 7 (below)**
     ![](Images/CountofTrips_by_weekdays_by_gender.png)
 
@@ -92,7 +92,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * The results are a mirror of what we found in the step above
     * As Males constitute 65.28% of the riders, the male data is more pronounced as compared to other genders
 
-8. ### Worksheet 8 - Trips by Gender and User-type
+8. #### Worksheet 8 - Trips by Gender and User-type
 
     **Image 8 (below)**
     ![](Images/CountOfTrips_by_UserType_and_gender.png)
