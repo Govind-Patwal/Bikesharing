@@ -5,7 +5,7 @@ Last summer, my friend Kate and I took the trip of a lifetime. New York City for
 
 ## Purpose
 
-In the past Kate and I used Tab
+In the past Kate and I used Tableau to create some visualizations, now 
 
 
 Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, one of the key stakeholders would like to see a bike trip analysis.
@@ -25,14 +25,42 @@ Finally, you’ll add these new visualizations to the two you created in this mo
     * Raw Data - https://s3.amazonaws.com/tripdata/201908-citibike-tripdata.csv.zip
 
 ## Results
-1. Description and image
+Click to view the Business Proposal
+
+[<img src="Images/DesMoinesBikeShareProposal.png">](https://public.tableau.com/profile/govind6013#!/vizhome/Des_Moines_Bikesharing_Business_Proposal/Business_Proposal)
+
+
+
+1. Description 
+
+Image (below)
+
+![](Images/Basic_info.png)
+
+
+
+
 2.
+![](Images/Top_starting_and_ending_locations.png)
+
 3.
+![](Images/peak_hours_of_day.png)
+
+
 4.
+![](Images/tripduration.png)
 5.
+![](Images/tripduration_by_gender.png)
+
 6.
+![](Images/CountofTrips_by_weekdays.png)
+
 7.
+
+![](Images/CountofTrips_by_weekdays_by_gender.png)
 8.
+
+![](Images/CountOfTrips_by_UserType_and_gender.png)
 
 
 
