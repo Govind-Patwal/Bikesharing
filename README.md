@@ -20,7 +20,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ### [***Link to Business Proposal on Tableau Public***](https://public.tableau.com/profile/govind6013#!/vizhome/Des_Moines_Bikesharing_Business_Proposal/Business_Proposal "Link to Business Proposal on Tableau")
 
-### Worksheets that are a part of the Tableau Story
+### The Below Worksheets are parts of the Tableau Story
 
 1. ### Worksheet 1 - Some basic information gathered from the data 
 
