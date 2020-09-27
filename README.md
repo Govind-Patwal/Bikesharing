@@ -135,8 +135,8 @@ There is a high-level summary of the results and two additional visualizations a
 
 1.
 
-## Business Proposal to the stakeholders
+## Business Proposal for Stakeholders
 
-[<img src="Images/DesMoinesBikeShareProposal.png">](https://public.tableau.com/profile/govind6013#!/vizhome/Des_Moines_Bikesharing_Business_Proposal/Business_Proposal)
+[<img src="Images/DesMoinesBikeShareProposal.png">](https://public.tableau.com/profile/govind6013#!/vizhome/Des_Moines_Bikesharing_Business_Proposal/Business_Proposal "Business Proposal for Stakeholders")
 
 
