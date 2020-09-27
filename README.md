@@ -26,7 +26,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     ![](Images/Basic_info.png)
 
     **Observation/Description of analysis:**
-    * The total number of rides in NYC in the month of August 2019 is 2,344,224. While this data relates to NYC, it can use used to get a rough estimate of the ridership in a city, for example the population of Des Moines is 216,853.
+    * The total number of rides in NYC in the month of August 2019 was 2,344,224. While this data relates to NYC, it can use used to get a rough estimate of the ridership in a city, for example the population of Des Moines is 216,853.
     * 81.07% of all rides were taken by Subscribers, while 18.93% was taken by Customers
     * Males took 65.28% of the rides, Females 25.1% and Unknowns at 9.62%
 
@@ -41,7 +41,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 3. ### Busiest times in a day
 
-    **Image (below)**
+    **Image 3 (below)**
     ![](Images/peak_hours_of_day.png)
 
     **Observation/Description:**
@@ -52,7 +52,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 4. ### Tripduration
 
-    **Image (below)**
+    **Image 4 (below)**
     ![](Images/tripduration.png)
 
     **Observation/Description:**
@@ -62,7 +62,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 5. ### Tripduration by Gender
 
-    **Image (below)**
+    **Image 5 (below)**
     ![](Images/tripduration_by_gender.png)
 
     **Observation/Description:**
@@ -71,7 +71,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * For Females and Unknown, the trend is similar
 
 6. ### Trips by Weekday per hour
-    **Image (below)**
+    **Image 6 (below)**
     ![](Images/CountofTrips_by_weekdays.png)
     **Observation/Description:**
     * This matches our analysis of peak hours in a day.
@@ -82,7 +82,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     * Bike service should be scheduled in the mornings, or on Wednesday afternoons, as Thursdays are very busy
 
 7. ### Trips by Gender (Weekday per Hour)
-    **Image (below)**
+    **Image 7 (below)**
     ![](Images/CountofTrips_by_weekdays_by_gender.png)
 
     **Observation/Description:**
@@ -91,7 +91,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 8. ### Trips by Gender and User-type
 
-    **Image (below)**
+    **Image 8 (below)**
     ![](Images/CountOfTrips_by_UserType_and_gender.png)
 
     **Observation/Description:**
