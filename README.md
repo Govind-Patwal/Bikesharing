@@ -9,7 +9,7 @@ In the past Kate and I used Tableau to create some basic visualization and creat
 Now that we've gotten a good idea of how to create our story, there is still some more work to be done to convince investors that a bike-sharing program in Des Moines is a solid business proposal. We decided that we will create some more visualizations and then add these new visualizations to the two we created in the past for our final presentation and analysis to pitch to investors.
 
 ## Resources
-* Software: Visual Studio Code 1.49.1
+* Software: Visual Studio Code 1.49.1, Tableau Desktop (Public Version - 2020.3.0), Anaconda
 * Language(s): Python for ETL
 * Other Tool(s): Tableau for Visualization
 * Data Source(s): 
@@ -25,7 +25,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
     ![](Images/Basic_info.png)
 
-    **Observation/Description of analysis:**
+    **Observation/Description:**
     * The total number of rides in NYC in the month of August 2019 was 2,344,224. While this data relates to NYC, it can use used to get a rough estimate of the ridership in a city, for example the population of Des Moines is 216,853.
     * 81.07% of all rides were taken by Subscribers, while 18.93% was taken by Customers
     * Males took 65.28% of the rides, Females 25.1% and Unknowns at 9.62%
@@ -37,7 +37,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
     **Observation/Description:**
     * Downtown Manhattan was the top starting and ending location
-    * This can be attributed to the fact that it has high density of commuters as well as tourists
+    * This can be attributed to the fact that it has highest density of offices (thus commuters) as well as tourist spots (thus tourists)
 
 3. ### Busiest times in a day
 
@@ -45,8 +45,8 @@ Now that we've gotten a good idea of how to create our story, there is still som
     ![](Images/peak_hours_of_day.png)
 
     **Observation/Description:**
-    * In the morning, the number of rides start picking up between 7-8 AM, peaking between 8-9, and then slowing between 10-11.
-    * In the evening, the number of rides start picking between 4-5, peaking between 5-6 PM and slowing between 8-9. 
+    * In the morning, the number of rides start picking up between 7-8 AM, peaking between 8-9 AM, and then slowing between 10-11 AM.
+    * In the evening, the number of rides start picking between 4-5 AM, peaking between 5-6 PM and slowing between 8-9 AM. 
     * The above both trends can be attributed to office commuters.
     * This also tells us that the morning times can be used to repair bikes
 
@@ -74,7 +74,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
     **Image 6 (below)**
     ![](Images/CountofTrips_by_weekdays.png)
     **Observation/Description:**
-    * This matches our analysis of peak hours in a day.
+    * This matches our analysis of peak hours in a day (point 3)
     * In the morning, the peak hours are betwen 7-10 AM and post noon, the peak hours are 5-8 PM, presumably becaused of office commuters.
     * Weekdays were usually busier than weekends
     * Thursday as the busiest day
@@ -108,15 +108,7 @@ High level summary
 
 =============
 
-Deliverable 3 Requirements
-You will earn a perfect score for Deliverable 3 by completing all requirements below:
 
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
 
 
 Analysis (24 points)
@@ -136,6 +128,8 @@ Summary:
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
 1. Trip by Gender, user-type, weekdays
+
+## Business Proposal to the stakeholders
 
 [<img src="Images/DesMoinesBikeShareProposal.png">](https://public.tableau.com/profile/govind6013#!/vizhome/Des_Moines_Bikesharing_Business_Proposal/Business_Proposal)
 
