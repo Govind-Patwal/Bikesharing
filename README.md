@@ -100,10 +100,14 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ## Summary
 
-High level summary
+August is usually a good time to visit NYC, which means the data has the best ridership of any month of the year. Winters will see less ridership.
+
+Des Moines is very small as compared to NYC, in terms of pouplation and area. 
+It is suggested that we have some 
 
 
-3 additional suggestions for future analysis
+2 additional suggestions for future analysis
+1. We already have a visualization for number of trip by Gender, user-type, weekdays. We can dig deeper to find the breakdown on the hours of weekdays.
 
 
 =============
@@ -127,7 +131,7 @@ Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 
-1. Trip by Gender, user-type, weekdays
+1.
 
 ## Business Proposal to the stakeholders
 
