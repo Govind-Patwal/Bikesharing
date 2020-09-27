@@ -18,7 +18,7 @@ Now that we've gotten a good idea of how to create our story, there is still som
 ## Results
 
 
-### [***Link to Dashboard***](https://public.tableau.com/profile/govind6013#!/vizhome/Des_Moines_Bikesharing_Business_Proposal/Business_Proposal "Link to Business Proposal on Tableau")
+### [***Link to Business Proposal on Tableau***](https://public.tableau.com/profile/govind6013#!/vizhome/Des_Moines_Bikesharing_Business_Proposal/Business_Proposal "Link to Business Proposal on Tableau")
 
 
 1. ### Some basic information gathered from the data 
