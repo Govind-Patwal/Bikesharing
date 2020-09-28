@@ -104,38 +104,21 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ## Summary
 
-August is usually a good time to visit NYC, which means the data has the best ridership of any month of the year. Winters will see less ridership.
-
-Des Moines is very small as compared to NYC, in terms of pouplation and area. 
-It is suggested that we have some 
-
-
-2 additional suggestions for future analysis
-1. We already have a visualization for number of trip by Gender, user-type, weekdays. We can dig deeper to find the breakdown on the hours of weekdays.
-
-
-=============
+The NYC CitiBikes was a very good case study to start a profitable Ride sharing business. Below is a high-level sumamry of the analysis. 
+1) The subscriber percentage is very high at 81.07% - a business with a high subscriber base can focus its energy on retaining its subscriber base rather than constantly hunting for new business. Various studies have shown that retaining a customer is way easier/cheaper than getting a new customer.
+2) People identifying their gender as 'Male' constitute 65.28% of the riders. The gender ratio in NYC is 53% females and 47% males. This point to the fact that for some reasons the CitiBikes has not been able to attract Females as much as Males. This is an area of concern as well as opportunity.
+3) Top Starting and Ending locations are in Manhattan. This shows that CitiBikes has done a good job in making rides within the reach of commuters and tourists. This in part explains the high subscriber percentage
+4) 8AM-10AM and 4PM-8PM are busiest times of the days. CitiBikes seems to be doing a good job here. This is an opporutnity/risk area.
+5) The most popular tripduration is 5 hours to 6 hours, this trend is almost the same across genders.
+6) Adding to point 4 above, Wednesday afternoons are an exception (less trips as compared to other weekdays). On Saturday and Sunday, the entire day seems a good time for rides except for early mornings and late nights. This trend is roughly the same across genders.
+7) With 81% of users as Subscribers, 65.28% as Males, and Weekdays busier than Weekends, and Thursday as the busiest day, it comes as no surprise as the field with the most trips was corresponding to Male Subscribers on Thursday, follwed by Male subscribers on Friday, Tuesday, Monday, Saturday, Wednesday and Sunday. Ridership of Male Subscribers is so high that the least busy day of the Male Subscribers is busier than the busiest days of the other groups.
 
 
+### Three (3) additional suggestions for future analysis
+1. We already have a visualization for Trips by Gender and User-type (Worksheet 8 above). This is however restricted to days (Mon-Fri). We can dig deeper to find the hourly breakdown of every day by Gender and User-type.
+2. Tripduration by weekdays, this analysis can help us in servicing the bikes better.
+3. Top Starting and Ending Locations by weekdays (and hours) - this analysis can help us in optimizing the availability of bikes at different locations. 
 
-
-Analysis (24 points)
-The written analysis has the following:
-
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (5 pt)
-Results:
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-
-
-Summary:
-
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-
-1.
 
 ## Business Proposal for Stakeholders
 
