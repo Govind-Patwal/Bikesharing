@@ -104,11 +104,11 @@ Now that we've gotten a good idea of how to create our story, there is still som
 
 ## Summary
 
-The NYC CitiBikes was a very good case study to start a profitable Ride sharing business. Below is a high-level sumamry of the analysis. 
-1) The subscriber percentage is very high at 81.07% - a business with a high subscriber base can focus its energy on retaining its subscriber base rather than constantly hunting for new business. Various studies have shown that retaining a customer is way easier/cheaper than getting a new customer.
+The NYC CitiBikes was a very good case study to start a profitable Ride sharing business. Below is a high-level summary of the analysis. 
+1) The subscriber percentage is very high at 81.07% - a business with a high subscriber base and percentage can focus its energy on retaining its subscriber base rather than constantly hunting for new business. Various studies have shown that retaining a customer is way easier/cheaper than getting a new customer.
 2) People identifying their gender as 'Male' constitute 65.28% of the riders. The gender ratio in NYC is 53% females and 47% males. This point to the fact that for some reasons the CitiBikes has not been able to attract Females as much as Males. This is an area of concern as well as opportunity.
 3) Top Starting and Ending locations are in Manhattan. This shows that CitiBikes has done a good job in making rides within the reach of commuters and tourists. This in part explains the high subscriber percentage
-4) 8AM-10AM and 4PM-8PM are busiest times of the days. CitiBikes seems to be doing a good job here. This is an opporutnity/risk area.
+4) 8AM-10AM and 4PM-8PM are busiest times of the days. CitiBikes seems to be doing a good job here in making bikes available to office commuters. This is an opporutnity/risk area.
 5) The most popular tripduration is 5 hours to 6 hours, this trend is almost the same across genders.
 6) Adding to point 4 above, Wednesday afternoons are an exception (less trips as compared to other weekdays). On Saturday and Sunday, the entire day seems a good time for rides except for early mornings and late nights. This trend is roughly the same across genders.
 7) With 81% of users as Subscribers, 65.28% as Males, and Weekdays busier than Weekends, and Thursday as the busiest day, it comes as no surprise as the field with the most trips was corresponding to Male Subscribers on Thursday, follwed by Male subscribers on Friday, Tuesday, Monday, Saturday, Wednesday and Sunday. Ridership of Male Subscribers is so high that the least busy day of the Male Subscribers is busier than the busiest days of the other groups.
@@ -120,7 +120,7 @@ The NYC CitiBikes was a very good case study to start a profitable Ride sharing 
 3. Top Starting and Ending Locations by weekdays (and hours) - this analysis can help us in optimizing the availability of bikes at different locations. 
 
 
-## Business Proposal for Stakeholders
+## Business Proposal for Stakeholders (as a clickable image)
 
 [<img src="Images/DesMoinesBikeShareProposal.png">](https://public.tableau.com/profile/govind6013#!/vizhome/Des_Moines_Bikesharing_Business_Proposal/Business_Proposal "Business Proposal for Stakeholders")
 
