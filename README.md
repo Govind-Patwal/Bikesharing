@@ -115,9 +115,9 @@ The NYC CitiBikes was a very good case study to start a profitable Ride sharing 
 
 
 ### Three (3) additional suggestions for future analysis
-1. We already have a visualization for Trips by Gender and User-type (Worksheet 8 above). This is however restricted to days (Mon-Fri). We can dig deeper to find the hourly breakdown of every day by Gender and User-type.
-2. Tripduration by weekdays, this analysis can help us in servicing the bikes better.
-3. Top Starting and Ending Locations by weekdays (and hours) - this analysis can help us in optimizing the availability of bikes at different locations. 
+1. Tripduration by weekdays, this analysis can help in servicing the bikes better.
+2. Top Starting and Ending Locations by weekdays (and hours) - this analysis can help in optimizing the availability of bikes at different locations. 
+3. We already have a visualization for Trips by Gender and User-type (Worksheet 8 above). This is however restricted to days (Sun-Sat). We can dig deeper to find the hourly breakdown by Gender and User-type.
 
 
 ## Business Proposal for Stakeholders (as a clickable image)
